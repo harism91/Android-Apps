@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MCalc</string>
+    <string name="principle_in_dollars">Principle (in Dollars)</string>
+    <string name="monthly_payment">MONTHLY PAYMENT</string>
+    <string name="amortization_in_dollars">Amortization (in dollars)</string>
+    <string name="enter_principle">enter principle</string>
+    <string name="enter_amortization">enter amortization</string>
+    <string name="interest_as_a_annual_percent">Interest (as a annual percent)</string>
+    <string name="enter_interest">enter interest</string>
+</resources>

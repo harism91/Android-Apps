@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name="your_weight">your weight</string>
+    <string name="your_height">your height</string>
+    <string name="button">Button</string>
+    <string name="enter_width">enter width</string>
+    <string name="enter_height">enter height</string>
+</resources>
